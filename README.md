@@ -80,4 +80,3 @@ Mechanical Engineer
 * Operations Management
 
 GitHub: https://github.com/gowdaskanda
-```
