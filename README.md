@@ -7,7 +7,7 @@ The project is based on direct observation of a real checkout process during pea
 
 ## Problem
 
-During peak shopping hours, particularly weekends and public holidays between 5:00 PM and 8:00 PM, customers experienced excessive waiting times at the checkout counters. Based on direct observation, customers waited approximately 12–13 minutes on average to complete the billing process. Only two billing counters were active, and each cashier handled scanning, tag removal, folding, packing, and payment single-handedly, creating a bottleneck.
+During peak shopping hours, particularly weekends and public holidays between 5:00 PM and 8:00 PM, customers experienced excessive waiting times at the checkout counters. Customers were observed waiting up to 12–13 minutes during peak rush; the dataset built from these observations averaged 10.29 minutes for the billing process. Only two billing counters were active, and each cashier handled scanning, tag removal, folding, packing, and payment single-handedly, creating a bottleneck.
 
 ## Project Objectives
 
@@ -20,7 +20,7 @@ During peak shopping hours, particularly weekends and public holidays between 5:
 ## Project Deliverables
 
 **DMAIC Report — Reducing Customer Checkout Waiting Time**
-Prepared a full technical DMAIC report based on direct observation and a supporting dataset of 35 customer transactions during peak hours. The report includes:
+Prepared a full technical DMAIC report based on direct observation and a supporting dataset of 35 customer transactions during peak hours. The report included:
 
 * Project charter and problem statement (Define)
 * KPI baseline: queue length, waiting time, billing time, packing time (Measure)
